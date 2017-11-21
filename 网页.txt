@@ -1,0 +1,42 @@
+1. 前端学习总结（二十三）——前端框架天下三分：Angular React 和 Vue的比较
+	http://blog.csdn.net/haoshidai/article/details/52346865
+2. jquery媒体插件
+	http://www.jq22.com/jquery%E5%AA%92%E4%BD%93-1-jq
+		a. CSS3立方体小照片
+			http://www.jq22.com/jquery-info9056
+		b. 飞行游戏
+			http://www.jq22.com/code1270
+		c. 放大轮播插件Zoom Slide
+			http://www.jq22.com/jquery-info11770
+		d. CSS3全屏3D画布图片切换特效
+			http://www.jq22.com/jquery-info16349
+		e. jQuery流动性图片切换
+			http://www.jq22.com/jquery-info11346
+		f. canvas实现粒子线条效果
+			http://www.jq22.com/jquery-info16391
+3. ECMAScript 6 入门
+	http://es6.ruanyifeng.com/#README
+4. 数据库中setString的使用解决方案
+	http://www.makaidong.com/JavaWeb/289757.shtml
+5. 项目原始网页
+	https://www.metinfo.cn/product/showproduct.php?lang=cn&id=1745&demo=1
+	后台
+	http://demo.metinfo.cn/admin/login/login.php
+6. asciiflow
+	http://asciiflow.com/
+7. CDN
+	https://baike.baidu.com/item/CDN/420951?fr=aladdin
+8. 廖雪峰的官方网站Git
+	https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137402760310626208b4f695940a49e5348b689d095fc000
+9.	Express
+	http://www.expressjs.com.cn/
+10. 前端网
+	http://www.qdfuns.com/
+11. web性能优化
+	https://www.cnblogs.com/50614090/archive/2011/08/19/2145620.html
+12. 前端解决跨域问题的8种方案（最新最全）
+	http://blog.csdn.net/joyhen/article/details/21631833
+13. MDN Web文档
+	https://developer.mozilla.org/zh-CN/
+14. MVC，MVP 和 MVVM 的图示
+	http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html
